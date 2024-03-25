@@ -1,0 +1,229 @@
+{
+    "type": "map",
+    "theme": "light",
+    "panEventsEnabled": true,
+    "backgroundColor": "#FFFFFF",
+    "backgroundAlpha": 1,
+    "zoomControl": {
+        "zoomControlEnabled": true
+    },
+    "dataProvider": {
+        "map": "usaHigh",
+        "getAreasFromMap": true,
+        "areas": [
+            {
+                "id": "US-AK",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-AL",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-AR",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-AZ",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-CA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-CO",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-CT",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-DC",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-DE",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-FL",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-GA",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-HI",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-IA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-ID",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-IL",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-IN",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-KS",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-KY",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-LA",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-MA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-MD",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-ME",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-MI",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-MN",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-MO",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-MS",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-MT",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-NC",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-ND",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-NE",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-NH",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-NJ",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-NM",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-NV",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-NY",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-OH",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-OK",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-OR",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-PA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-RI",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-SC",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-SD",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-TN",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-TX",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-UT",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-VA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-VT",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-WA",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-WI",
+                "showAsSelected": false
+            },
+            {
+                "id": "US-WV",
+                "showAsSelected": true
+            },
+            {
+                "id": "US-WY",
+                "showAsSelected": true
+            }
+        ]
+    },
+    "areasSettings": {
+        "autoZoom": true,
+        "color": "#4040FF",
+        "colorSolid": "#E61E1E",
+        "selectedColor": "#E61E1E",
+        "outlineColor": "#FFFFFF",
+        "rollOverColor": "#C2C2C2",
+        "rollOverOutlineColor": "#000000"
+    }
+}
